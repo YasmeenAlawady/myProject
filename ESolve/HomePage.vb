@@ -51,11 +51,11 @@
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
-        login.Show()
+
     End Sub
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
-        _ٍStudentProfile.Show()
+
     End Sub
 
     Private Sub HomePage_Load(sender As Object, e As EventArgs) Handles MyBase.Load

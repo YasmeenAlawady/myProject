@@ -127,10 +127,13 @@
   <data name="imageedit_1_9289099261" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imageedit_1_9289099261.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="imageedit_11_35348194781" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageedit_11_35348194781.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="imageedit_11_3534819478" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imageedit_11_3534819478.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="imageedit_11_35348194781" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\imageedit_11_35348194781.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="imageedit_3_9356522256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageedit_3_9356522256.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

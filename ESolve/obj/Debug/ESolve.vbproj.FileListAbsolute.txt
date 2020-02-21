@@ -36,3 +36,4 @@ C:\Users\admin\Downloads\ESolve\ESolve\obj\Debug\ESolve.exe
 C:\Users\admin\Downloads\ESolve\ESolve\obj\Debug\ESolve.xml
 C:\Users\admin\Downloads\ESolve\ESolve\obj\Debug\ESolve.pdb
 C:\Users\admin\Downloads\ESolve\ESolve\obj\Debug\ESolve._ٍStudentProfile.resources
+C:\Users\admin\Downloads\ESolve\ESolve\obj\Debug\ESolve.TeacherProfile.resources
